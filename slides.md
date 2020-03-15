@@ -40,23 +40,48 @@ Source: Nature Methods, 8, 80–84 (2011) doi:[10.1038/nmeth.1537](https://doi.o
 
 # DNA packing in the nucleus
 
+
+![:img DNA packed in the nucleus, 80%](dna.png)
+
+Source: Lieberman-Aiden, et al., Oct. 2009. Science 326 (5950), 289-293. doi:[10.1126/science.1181369](https://doi.org/10.1126/science.1181369)
+Youtube: [https://www.youtube.com/watch?v=1Fyq9ul9N9Q](https://www.youtube.com/watch?v=1Fyq9ul9N9Q)
+
 ---
 
 # The Human Metabolome
+
+![:img Screenshot of the HMDB website, 100%](hmdb.png)
+
+Source: Wishart et al. HMDB 4.0, NAR 2017 doi:[10.1093/nar/gkx1089](https://doi.org/10.1093/nar/gkx1089)
 
 ---
 
 # WikiPathways → Mapping Life
 
+<center>
 <iframe src ="https://www.wikipathways.org/index.php/Pathway:WP465?view=widget" width="800px" height="500px" style="overflow:hidden;"></iframe>
+</center>
 
 ---
 
 # Can we see atoms or bonds?
 
+![:img AFM image of pentacene, 50%](https://d2cbg94ubxgsnp.cloudfront.net/Pictures/780xany/9/4/0/114940_Pentacene_nchem418-f1a_credit-NPG.jpg)
+
+Source: [https://www.chemistryworld.com/news/tuning-in-to-afm/2500506.article](https://www.chemistryworld.com/news/tuning-in-to-afm/2500506.article)
+
+![:img Stick-and-balls images of pentacene, 50%](800px-Pentacene-3D-balls.png)
+
+Source: [https://commons.wikimedia.org/wiki/File:Pentacene-3D-balls.png](https://commons.wikimedia.org/wiki/File:Pentacene-3D-balls.png)
+
 ---
 
 # Can we see hydrogen bonds?
+
+
+![:img AFM of hydrogen bonds, 70%](hydrogenBonds.jpeg)
+
+Source: Zhang et al. Science 2013. doi:[10.1126/science.1242603](https://doi.org/10.1126/science.1242603)
 
 ---
 
