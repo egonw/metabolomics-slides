@@ -24,7 +24,7 @@ Source: [http://pdb101.rcsb.org/motm/41](http://pdb101.rcsb.org/motm/41)
 
 # The Human Proteome
 
-![:img Human Protein Atlas webpage screenshot for ACE2, 80%](Screenshot_20200315_152043.png)
+![:img Human Protein Atlas webpage screenshot for ACE2, 100%](Screenshot_20200315_152043.png)
 
 Source: [https://www.proteinatlas.org/ENSG00000130234-ACE2/tissue](https://www.proteinatlas.org/ENSG00000130234-ACE2/tissue)
 
@@ -32,7 +32,7 @@ Source: [https://www.proteinatlas.org/ENSG00000130234-ACE2/tissue](https://www.p
 
 # Proteins find there way
 
-![Figure 1 of the linked article showing cellular location of histone H2B.](41592_2011_Article_BFnmeth1537_Fig1_HTML.webp)
+![:img Figure 1 of the linked article showing cellular location of histone H2B, 100%](41592_2011_Article_BFnmeth1537_Fig1_HTML.webp)
 
 Source: Nature Methods, 8, 80–84 (2011) doi:[10.1038/nmeth.1537](https://doi.org/10.1038/nmeth.1537)
 
