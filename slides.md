@@ -24,7 +24,7 @@ Source: [http://pdb101.rcsb.org/motm/41](http://pdb101.rcsb.org/motm/41)
 
 # The Human Proteome
 
-![:img Human Protein Atlas webpage screenshot for ACE2, 100%](Screenshot_20200315_152043.png)
+![:img Human Protein Atlas webpage screenshot for ACE2, 85%](Screenshot_20200315_152043.png)
 
 Source: [https://www.proteinatlas.org/ENSG00000130234-ACE2/tissue](https://www.proteinatlas.org/ENSG00000130234-ACE2/tissue)
 
@@ -47,6 +47,8 @@ Source: Nature Methods, 8, 80–84 (2011) doi:[10.1038/nmeth.1537](https://doi.o
 ---
 
 # WikiPathways → Mapping Life
+
+<iframe src ="https://www.wikipathways.org/wpi/PathwayWidget.php?id=WP465" width="600px" height="300px" style="overflow:hidden;"></iframe>
 
 ---
 
