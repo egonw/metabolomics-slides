@@ -24,7 +24,7 @@ Source: [http://pdb101.rcsb.org/motm/41](http://pdb101.rcsb.org/motm/41)
 
 # The Human Proteome
 
-![Human Protein Atlas webpage screenshot for ACE2](Screenshot_20200315_152043.png)
+![:img Human Protein Atlas webpage screenshot for ACE2, 80%](Screenshot_20200315_152043.png)
 
 Source: [https://www.proteinatlas.org/ENSG00000130234-ACE2/tissue](https://www.proteinatlas.org/ENSG00000130234-ACE2/tissue)
 
