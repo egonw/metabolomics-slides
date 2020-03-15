@@ -48,7 +48,7 @@ Source: Nature Methods, 8, 80–84 (2011) doi:[10.1038/nmeth.1537](https://doi.o
 
 # WikiPathways → Mapping Life
 
-<iframe src ="https://www.wikipathways.org/wpi/PathwayWidget.php?id=WP465" width="600px" height="300px" style="overflow:hidden;"></iframe>
+<iframe src ="https://www.wikipathways.org/index.php/Pathway:WP465?view=widget" width="600px" height="300px" style="overflow:hidden;"></iframe>
 
 ---
 
