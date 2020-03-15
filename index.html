@@ -20,6 +20,10 @@
     <textarea id="source"></textarea>
     <script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
     <script>
+      remark.macros.img = function (altText, width) {
+        var url = this;
+        return '<img alt="' + altText + '" src="' + url + '" style="width: ' + width + '" />';
+      };
       var slideshow = remark.create({ sourceUrl: 'slides.md' });
     </script>
   </body>
